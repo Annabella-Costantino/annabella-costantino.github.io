@@ -1,12 +1,11 @@
 ---
-layout: page
 title: Photography
-subtitle: All about me and my life #optional sub title to the post
-permalink: /photography/
-header_feature_image:  /uploads/log.jpg #replace this for yours
-tags:
-published: true
-description:
+permalink: "/photography/"
+layout: page
+subtitle: All about me and my life
+header_feature_image: "/uploads/log.jpg"
+tags: 
+description: 
 ---
 
 This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
