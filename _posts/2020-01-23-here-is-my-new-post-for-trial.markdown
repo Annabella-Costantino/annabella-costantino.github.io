@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Here is a blog post sample
-date: 2020-01-23
-published: true
-header_feature_image: _uploads/water.jpg
-caption: "Wood Type"
+date: 2020-01-23 00:00:00 Z
 tags:
-  - Journalism
-  - Life
-  - Food
+- Journalism
+- Life
+- Food
+layout: post
+header_feature_image: _uploads/water.jpg
+caption: Wood Type
 ---
 
 This is just a sample post that you should delete or set to `published:false`. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. The `header_feature_image` is optional and you should enter the path to it in the metadata above.
